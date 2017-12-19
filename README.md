@@ -1,5 +1,5 @@
 
-**APP NAME : FOOGLE **
+**APP NAME : FOOGLE**
 
 **Food + Google = Foogle**
 
@@ -75,7 +75,7 @@ The user can click on the delete button which will destroy the review.
 
 **BONUS**
 
-**SPRINT 5: **
+**SPRINT 5:**
 
 **SEARCH BY NAME**  
 

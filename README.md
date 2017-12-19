@@ -1,5 +1,5 @@
 
-# H1 APP NAME : FOOGLE
+# APP NAME : FOOGLE
 
 **Food + Google = Foogle**
 

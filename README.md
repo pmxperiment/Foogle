@@ -4,17 +4,24 @@
 
 Users can search through a database of restaurants that are reviewed by culinary professionals in this Foogle Site powered by honesty and trust.
 
-**Technologies Used**
+**Technologies Used :**
+
+
 HTML,CSS,JavaScript,JQuery,Ajax,BootStrap,MongoDb
 
 **SPRINT 0:**
 **SERVER & FILE STRUCTURE SETUP**
 
-Step 1: Server basic setup.
-Step 2: Serving the HTML views from Express.
+Step 1: Server basic setup.  
+
+Step 2: Serving the HTML views from Express.  
+
 Step 3: Serve static files from Express.
-Step 4: Setting up database file structure.
-Step 5: Setting up a "controller" pattern to organize routes.
+
+Step 4: Setting up database file structure.  
+
+Step 5: Setting up a "controller" pattern to organize routes.  
+
 
 *Story:*
 User should be able to go to localhost:3000 and see a welcome page with a top nav.

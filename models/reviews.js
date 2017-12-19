@@ -4,8 +4,11 @@ var mongoose = require('mongoose'),
 var ReviewSchema = new Schema({
   review_text: String,
   username: String,
-  createdTimeStamp: Timestamp
-});
+},
+{
+  timestamps:true
+}
+);
 
 var Review = mongoose.model('Review', ReviewSchema);
 module.exports = Review;

@@ -1,7 +1,7 @@
 
 # APP NAME : FOOGLE
 
-**Food + Google = Foogle**
+## Food + Google = Foogle
 
 Users can search through a database of restaurants that are reviewed by culinary professionals in this Foogle Site powered by honesty and trust.
 

@@ -114,7 +114,7 @@ All other restaurants and its details are hidden.
 
 **ADDING A SIGN UP & LOGIN**
 
-A signup button will be located right next to a login button.
+A signup button and a login button will be located right next to each other in the homepage.
 
 *Story:*
 

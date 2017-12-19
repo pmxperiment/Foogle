@@ -1,5 +1,5 @@
 
-** # H1 APP NAME : FOOGLE **
+**APP NAME : FOOGLE **
 
 **Food + Google = Foogle**
 
@@ -46,15 +46,15 @@ User can click on restaurant name to expand each restaurant’s section and see 
 
 We can implement post review functions.
 
-*Story*  
+*Story:*  
 
 User can see a text area under each of the restaurant details/section where he/she can post a review and submit.
 Submitting a review will make the review show up on the page.
 
 
-**SPRINT 3:
+**SPRINT 3:**
 
-UPDATE A REVIEW**  
+**UPDATE A REVIEW**  
 
 There will be a label with review.
 
@@ -62,9 +62,9 @@ There will be a label with review.
 
 The user will be able to see an update button next to each of the reviews. Clicking on the update button will transform the label text into a text box now the user can update the review and click the save button to save changes.
 
-**SPRINT 4:
+**SPRINT 4:**
 
-DELETE A REVIEW**  
+**DELETE A REVIEW**  
 
 There will be a delete button next to each of the reviews.
 
@@ -73,11 +73,11 @@ There will be a delete button next to each of the reviews.
 The user can click on the delete button which will destroy the review.
 
 
-**BONUS  
+**BONUS**
 
-SPRINT 5:  
+**SPRINT 5: **
 
-SEARCH BY NAME**  
+**SEARCH BY NAME**  
 
 There will be a search bar located at the top of the page.
 
@@ -86,9 +86,9 @@ There will be a search bar located at the top of the page.
 The user can type the name of the restaurant and the corresponding details will be displayed.
 User will be able to perform post/update/delete reviews for that restaurant.
 
-**SPRINT 6:
+**SPRINT 6:**
 
-SEARCH BY CUISINE**  
+**SEARCH BY CUISINE**  
 
 There will be a dropdown menu where the user can also now search by which cuisine.
 
@@ -98,9 +98,9 @@ When the user decides to search by cuisine, a text box appears below the dropdow
 All other restaurants and its details are hidden.
 
 
-**SPRINT 7:
+**SPRINT 7:**
 
-SEARCH BY MENU ITEM**
+**SEARCH BY MENU ITEM**
 
 There will be a dropdown menu where the user can also now search by menu item.
 
@@ -110,9 +110,9 @@ The user decides to search by menu item, a text box appears below the dropdown m
 All other restaurants and its details are hidden.
 
 
-**SPRINT 8:
+**SPRINT 8:**
 
-ADDING A SIGN UP & LOGIN**
+**ADDING A SIGN UP & LOGIN**
 
 A signup button will be located right next to a login button.
 

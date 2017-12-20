@@ -1,7 +1,7 @@
 var mongoose = require('mongoose'),
   Schema = mongoose.Schema;
 
-var reviews=require('./review.js');
+var reviews=require('./reviews.js');
 
 var restaurantsSchema = new Schema({
   name: String,

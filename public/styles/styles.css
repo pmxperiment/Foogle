@@ -1,3 +1,12 @@
-body{
-  background-color: blue;
+
+/*body{
+  /*background:url("http://foodporndaily.com/pictures/juicy-seared-salmon-sandwich-with-creamy-basil-pesto-and-grilled-glazed-zucchini-on-turkish-bread.jpg");*/
+  /*background:url("https://www.rd.com/wp-content/uploads/2017/10/03_Memorize-these-Potluck-Etiquette-Rules-Before-Your-Next-Party_531679561_KucherAV-760x506.jpg");
+  background-size:cover;
+  height:100%;*/
+.jumbotron{
+  color:#ffffff;
+  background-image: url("/images/bg.jpg");
+  background-size: cover;
+  
 }

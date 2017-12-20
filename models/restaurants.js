@@ -1,6 +1,8 @@
 var mongoose = require('mongoose'),
   Schema = mongoose.Schema;
 
+var reviews=require('./review.js');
+
 var restaurantsSchema = new Schema({
   name: String,
   location:String,
@@ -8,11 +10,7 @@ var restaurantsSchema = new Schema({
   serviceTime:String,
   cuisine:String,
   OperationHours:[ String ],
-  reviews: {
-    type: Schema.Types.ObjectId,
-    ref: 'Review'
-  },
-
+  reviews: [ reviews.schema ],
 });
 var Restaurant = mongoose.model('Book', restaurantsSchema);
 module.exports = Restaurant;
